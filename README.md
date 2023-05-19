@@ -17,7 +17,7 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self and in School
-- I'm always looking for challenge
+- I'm always looking for challenges
 
 <br>
 
