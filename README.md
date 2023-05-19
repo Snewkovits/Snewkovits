@@ -8,8 +8,13 @@
 
 <br>
 
+<div align="center">
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snewkovits&theme=github_dark)
+	
+</div>
 
+<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -99,9 +104,10 @@
 
 <div align="center">
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=Snewkovits&theme=onedark)<br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snewkovits&theme=onedark)
-
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Snewkovits&theme=github_dark)<br>
+![Statistics](https://github-readme-stats.vercel.app/api?username=Snewkovits&theme=github_dark)<br>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Snewkovits&theme=github_dark)<br>
+	
 </div>
 
 <br><br>
@@ -125,6 +131,12 @@
 	
 </a>
 	
+<a href="mailto:adam.szabo.915@gmail.com">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+	
+</a>
+	
 </div>
 
 <br>
@@ -145,7 +157,7 @@
 
 <br>
 
-Credit: [Snewkovits](https://github.com/Snewkovits)
+Credit: [Snewkovits](https://github.com/Snewkovits) <br>
 ![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 Last Edited on: **05/19/2023**
