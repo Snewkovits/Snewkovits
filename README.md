@@ -14,11 +14,17 @@
 	
 </div>
 
-<br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<img src="https://media4.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e47xbn4yz9hoff6uc83ypohffwx85jtd7m2soewpknq&ep=v1_stickers_search&rid=giphy.gif&ct=s" align="right" width="200">
 
 <br>
+
+<h2><picture><img src = "https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47k6vye2ctanofs90aup6t97d3bclb1917r7lsfnsw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 50px></picture> <b>About me</b></h2>
+
+
+<br>
+
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self and in School
@@ -30,7 +36,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h2><picture><img src="https://media1.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e476rg3cn1gt51ik7yjl8gpfl4blm5x992u2ffobd71&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width ="25"></picture><b> Skills</b></h2>
 <br>
 
 <p align="center">
@@ -98,7 +104,7 @@
 
 ---
 
-## **Github Statistics**
+<h2><picture><img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35"></picture><b> Github Statistics</b></h2>
 
 <br>
 
@@ -115,14 +121,33 @@
 -----
 
 
-## **Let's Connect!**
+<h2>
+    <picture>
+        <img src="https://media4.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47wdgl71vjkyw9iq9uei4o1ojebxs4ybkb6hxzyzk6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
+    </picture>
+    <b> Let's Connect!</b>
+</h2>
+
 <br>
 <div align='center'>
 
+	
+<a href="https://t.me/snewkovits">
+	
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+	
+</a>
+	
 <a href="https://discordapp.com/users/313752666977337345">
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+</a>
+	
+<a href="mailto:adam.szabo.915@gmail.com">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+	
 </a>
 
 <a href="https://github.com/Snewkovits">
@@ -131,11 +156,6 @@
 	
 </a>
 	
-<a href="mailto:adam.szabo.915@gmail.com">
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-	
-</a>
 	
 </div>
 
