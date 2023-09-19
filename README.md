@@ -2,7 +2,7 @@
 <h2 align="center">alias <b>Snewkovits</b> </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+to+see+you+there..&hearts;++;Self-taught+Back-End+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+glad+to+see+you+there...;++;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -174,10 +174,3 @@
 <br>
 
 ---
-
-<br>
-
-Credit: [Snewkovits](https://github.com/Snewkovits) <br>
-![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-
-Last Edited on: **07/28/2023**
