@@ -16,7 +16,7 @@
 
 <br>
 
-<h2><img src = "https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47k6vye2ctanofs90aup6t97d3bclb1917r7lsfnsw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> <b>About me</b></h2>
+<h2><b>About me</b></h2>
 
 
 <br>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h2><img src="https://media1.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e476rg3cn1gt51ik7yjl8gpfl4blm5x992u2ffobd71&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width ="25px"><b> Skills</b></h2>
+<h2><b> Skills</b></h2>
 <br>
 
 <p align="center">
@@ -103,7 +103,7 @@
 
 ---
 
-<h2><picture><img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35px"></picture><b> Github Statistics</b></h2>
+<h2><b> Github Statistics</b></h2>
 
 <br>
 
@@ -120,12 +120,7 @@
 -----
 
 
-<h2>
-    <picture>
-        <img src="https://media4.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif?cid=ecf05e47wdgl71vjkyw9iq9uei4o1ojebxs4ybkb6hxzyzk6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
-    </picture>
-    <b> Let's Connect!</b>
-</h2>
+<h2><b> Let's Connect!</b></h2>
 
 <br>
 <div align='center'>
