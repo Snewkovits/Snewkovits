@@ -22,6 +22,7 @@
 <br>
 
 
+- If you want to see some of my project, you can see my old repositories, for some of my new projects please contact me
 - A passionate Full-Stack developer
 - Currently learning Software Engineering in University
 - I'm always looking for challenges and motivated about them
