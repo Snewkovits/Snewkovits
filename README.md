@@ -27,7 +27,7 @@
 - Currently learning Software Engineering in University
 - I'm always looking for challenges and motivated about them
 - Usually I'm available in Discord
-- Now I'm working on my own project but I won't shut up
+- Now I'm working on my own projects but I won't shut up
 
 <br>
 
