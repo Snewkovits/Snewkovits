@@ -14,10 +14,6 @@
 	
 </div>
 
-	
-
-<img src="https://media4.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e47xbn4yz9hoff6uc83ypohffwx85jtd7m2soewpknq&ep=v1_stickers_search&rid=giphy.gif&ct=s" align="right" width="200px">
-
 <br>
 
 <h2><img src = "https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif?cid=ecf05e47k6vye2ctanofs90aup6t97d3bclb1917r7lsfnsw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> <b>About me</b></h2>
@@ -26,9 +22,10 @@
 <br>
 
 
-- A passionate Self-taught Back-end developer
-- Currently learning Web Development by Self and in School
-- I'm always looking for challenges
+- A passionate Full-Stack developer
+- Currently learning Software Engineering in University
+- I'm always looking for challenges and motivated about them
+- Usually I'm available in Discord
 
 <br>
 
